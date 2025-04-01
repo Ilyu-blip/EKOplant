@@ -1,0 +1,32 @@
+
+.header{
+    padding:24px 0;
+    border-bottom: 1px solid #E7E9FC;
+}
+.div-header{
+    background-color: green;
+    padding:24px 0;
+    border-bottom: 1px solid #30b440;
+}
+button{
+    background-color: lawngreen;
+    color: darkgreen;
+    border-radius: 5%;
+    border: #E7E9FC;
+
+}
+button:hover{
+    background-color: darkolivegreen;
+    color: rgb(3, 54, 3);
+    border-radius: 7%;
+    border: #E7E9FC;
+}
+span{
+    color: mediumseagreen;
+}
+h1{
+    color: darkseagreen;
+}
+.menu-header{
+    color: aquamarine;
+}
